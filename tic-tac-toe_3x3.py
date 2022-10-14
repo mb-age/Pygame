@@ -1,3 +1,5 @@
+""" Tic Tac Toe game, size 3x3 """
+
 import pygame
 import sys
 import colors
